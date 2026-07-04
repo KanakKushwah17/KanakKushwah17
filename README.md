@@ -36,23 +36,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🛡️ CyberLens
-
-A Python-based Cybersecurity Toolkit.
-
-✨ Features
-
-- Password Strength Checker
-- Website Analyzer
-- IP Information Lookup
-- File Scanner
-- Report Generator
-- History Management
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=KanakKushwah17&show_icons=true&theme=tokyonight&hide_border=true)
