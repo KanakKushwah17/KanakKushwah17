@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Student | Python Learner | Full Stack Enthusiast | Future Software Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer+in+Progress;Learning+Full+Stack+Development;Exploring+Cybersecurity;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Kanak+Kushwah;Python+Developer;Learning+Full+Stack;Cybersecurity+Enthusiast" />
 </p>
 
 ---
