@@ -37,63 +37,36 @@ B.Tech Student | Python Learner | Full Stack Enthusiast | Future Software Engine
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KanakKushwah17&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+**Python** • **SQL** • **Full Stack Development**
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Projects
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=KanakKushwah17&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+I build projects while learning and improving my programming skills.
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KanakKushwah17&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+- 🐍 Python Projects
+- 🗄️ SQL Practice
+- 💻 Full Stack Projects
+- 🧩 Programming & DSA Practice
 
 ---
 
-## 💻 Most Used Languages
+## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakKushwah17&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/KanakKushwah17">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanakKushwah17&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph">
+  </a>
 </p>
-
----
-
-## 🎯 Current Goals
-
-- 🌱 Improve my **Python** skills
-- 💻 Become a **Full Stack Developer**
-- 🗄️ Improve my **SQL** skills
-- 🚀 Build real-world projects
-- ⭐ Contribute to **Open Source**
 
 ---
 
 ## 🌟 Fun Fact
 
-> I enjoy learning new technologies and turning ideas into real projects. Every day is an opportunity to learn something new! 🚀
+> I enjoy learning new technologies and turning ideas into real projects. 🚀
 
 ---
 
