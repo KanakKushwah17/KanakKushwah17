@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kanak Kushwah</h1>
 
-<h3 align="center">B.Tech Student | Python Learner | Full Stack Enthusiast | Future Software Engineer 🚀</h3>
+<h3 align="center">
+B.Tech Student | Python Learner | Full Stack Enthusiast | Future Software Engineer 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Kanak+Kushwah;Python+Learner;Learning+Full+Stack;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+I'm+Kanak+Kushwah;Python+Learner;Learning+Full+Stack;Future+Software+Engineer" alt="Typing SVG">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech Student
-* 💻 Learning **Full Stack Development**
-* 🐍 Currently learning **Python**
-* 💡 Familiar with **C**
-* 🗄️ Currently learning **SQL**
-* 🚀 Love building projects and exploring new technologies
-* 🌱 I believe in learning by building real-world projects
-* 🎯 Goal: Become a **Software Engineer** and contribute to impactful products
+- 🎓 B.Tech Student
+- 💻 Learning **Full Stack Development**
+- 🐍 Currently learning **Python**
+- 💡 Familiar with **C**
+- 🗄️ Currently learning **SQL**
+- 🚀 Love building projects and exploring new technologies
+- 🌱 I believe in learning by building real-world projects
+- 🎯 Goal: Become a **Software Engineer**
 
 ---
 
@@ -38,7 +40,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanakKushwah17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KanakKushwah17&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -46,7 +51,10 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KanakKushwah17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=KanakKushwah17&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -54,7 +62,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanakKushwah17&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KanakKushwah17&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -62,18 +73,21 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakKushwah17&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanakKushwah17&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
 ## 🎯 Current Goals
 
-* 🌱 Improve my **Python** skills
-* 💻 Become a **Full Stack Developer**
-* 🗄️ Improve my **SQL** skills
-* 🚀 Build real-world projects
-* ⭐ Contribute to **Open Source**
+- 🌱 Improve my **Python** skills
+- 💻 Become a **Full Stack Developer**
+- 🗄️ Improve my **SQL** skills
+- 🚀 Build real-world projects
+- ⭐ Contribute to **Open Source**
 
 ---
 
